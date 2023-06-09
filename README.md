@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Firdavs011
+- 👋 Hi, I’m @Typime
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning English
 - 💞️ I’m looking to collaborate on programmer
